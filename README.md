@@ -9,3 +9,5 @@ https://kshtj11.github.io/lockscreen-exp/
 https://kshtj11.github.io/mango/
 
 https://kshtj11.github.io/mangolock/
+
+https://kshtj11.github.io/mangoterminal/
