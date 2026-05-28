@@ -13,3 +13,5 @@ https://kshtj11.github.io/mangolock/ - capsule 3 lock variations
 https://kshtj11.github.io/termkeyboard/ - spacebar/trackpoint arrow key controls
 
 https://kshtj11.github.io/dot-matrix-swipe/
+
+https://kshtj11.github.io/comet-launch-parabola/
