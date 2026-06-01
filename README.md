@@ -15,3 +15,5 @@ https://kshtj11.github.io/termkeyboard/ - spacebar/trackpoint arrow key controls
 https://kshtj11.github.io/dot-matrix-swipe/
 
 https://kshtj11.github.io/comet-launch-parabola/
+
+https://kshtj11.github.io/constellation-lock-pattern/
