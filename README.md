@@ -12,8 +12,10 @@ https://kshtj11.github.io/mangolock/ - capsule 3 lock variations
 
 https://kshtj11.github.io/termkeyboard/ - spacebar/trackpoint arrow key controls
 
-https://kshtj11.github.io/dot-matrix-swipe/
+https://kshtj11.github.io/dot-matrix-swipe/ - dot matrix reveal coverscreen
 
-https://kshtj11.github.io/comet-launch-parabola/
+https://kshtj11.github.io/comet-launch-parabola/ - parabolic swipe up coverscreen exploration
 
-https://kshtj11.github.io/constellation-lock-pattern/
+https://kshtj11.github.io/constellation-lock-pattern/ - (to work on)
+
+https://kshtj11.github.io/bottoms-up-dock-test/ - test
