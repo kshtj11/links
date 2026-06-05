@@ -18,7 +18,9 @@ https://kshtj11.github.io/comet-launch-parabola/ - parabolic swipe up coverscree
 
 https://kshtj11.github.io/constellation-lock-pattern/ - (to work on)
 
-https://kshtj11.github.io/bottoms-up-dock-test/ - dock test
+https://kshtj11.github.io/bottoms-up-dock-test/ - dock test (with apps)
 
 https://kshtj11.github.io/bottoms-up-radial/ - pie menu
+
+https://kshtj11.github.io/bottoms-up-nav-dock/ - navigation dock
 
