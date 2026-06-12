@@ -26,3 +26,5 @@ https://kshtj11.github.io/bottoms-up-nav-dock/ - navigation dock
 
 https://kshtj11.github.io/notif-tests/ - notification test
 
+https://kshtj11.github.io/settings-draw/ - settings drwaer
+
