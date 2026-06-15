@@ -28,3 +28,6 @@ https://kshtj11.github.io/notif-tests/ - notification test
 
 https://kshtj11.github.io/settings-draw/ - settings drwaer
 
+https://kshtj11.github.io/script-aishwary/ - script aish
+
+
