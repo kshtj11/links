@@ -30,4 +30,6 @@ https://kshtj11.github.io/settings-draw/ - settings drwaer
 
 https://kshtj11.github.io/script-aishwary/ - script aish
 
+https://nerdyteachers.com/PICO-8/Games/?players=2&sort=date
+
 
