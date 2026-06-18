@@ -30,6 +30,8 @@ https://kshtj11.github.io/settings-draw/ - settings drwaer
 
 https://kshtj11.github.io/script-aishwary/ - script aish
 
+https://kshtj11.github.io/onscreen-keyboard-overall/ - notes app type, to experiment usecases of the keyboard
+
 https://nerdyteachers.com/PICO-8/Games/?players=2&sort=date
 
 
