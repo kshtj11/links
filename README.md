@@ -6,7 +6,7 @@ https://kshtj11.github.io/paint480/ - simple paint software for it (fun side thi
 
 https://poodle-pecan-96534126.figma.site - constellation pattern lock figma prototype .
 
-https://kshtj11.github.io/lockscreen-exp/ - constellation and comet lock 3 patterns, 4 bgs, controls in repo - github.com/kshtj11/lockscreen-exp/
+https://kshtj11.github.io/lockscreen-exp/ - constellation and comet lock 3 patterns, 4 bgs
 
 https://kshtj11.github.io/constellation-lock-pattern/ - more on constellation lock
 
