@@ -36,8 +36,8 @@ https://kshtj11.github.io/onscreen-keyboard-overall/ - md notes app type, to exp
 
 https://nerdyteachers.com/PICO-8/Games/?players=2&sort=date - pico games to easily run on the comet
 
-https://kshtj11.github.io/Search-Menu/ - search menu ideation (tui ness added in) (from dock or hotkey)
+https://kshtj11.github.io/Search-Menu/ - search menu ideation (tui ness added in) (opend from navigation dock or hotkey)
 
-https://kshtj11.github.io/comet-browser-app/ - Default browser App
+https://kshtj11.github.io/comet-browser-app/ - Default browser App (also tried swipe horizontally from screen edge for back (does work))
 
 
