@@ -41,3 +41,5 @@ https://kshtj11.github.io/Search-Menu/ - search menu ideation (tui ness added in
 https://kshtj11.github.io/comet-browser-app/ - Default browser App (also tried swipe horizontally from screen edge for back (does work))
 
 https://riiiitiiikaa.github.io/Mecha-Comet-Dialer-/ - Dialler App Prototype
+
+test - https://www.figma.com/design/H1f7PUCNLbEBou7eK62XQH/Launcher--WIP-?node-id=746-3186&t=dy9dUljSIyxOYS2V-1
