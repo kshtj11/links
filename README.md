@@ -45,3 +45,5 @@ https://riiiitiiikaa.github.io/Mecha-Comet-Dialer-/ - Dialler App Prototype
 test - https://www.figma.com/design/H1f7PUCNLbEBou7eK62XQH/Launcher--WIP-?node-id=746-3186&t=dy9dUljSIyxOYS2V-1
 
 https://www.figma.com/proto/ANrGweVpbDamKoXkVyZ4C4/Launcher-Comet?node-id=214-79&viewport=2553%2C1152%2C0.39&t=Jwb2GOYJTEsTpf6U-1&scaling=min-zoom&content-scaling=fixed&page-id=214%3A3
+
+https://kshtj11.github.io/portals-for-comet/ - different portals, exploration and modal type check
